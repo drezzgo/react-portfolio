@@ -24,7 +24,7 @@ const About = ({ language }) => {
                 transition={{duration: 0.5}}
                 className="w-full lg:w-1/2">
                     <p className="my-2 max-w-xl py-6">{ language === "es" ? ABOUT_ME_PART1: ABOUT_ME_PART1_ES}</p>
-                    <p className="py-4 my-2 max-w-xl">{ language === "es" ? ABOUT_ME_PART1: ABOUT_ME_PART2_ES}</p>
+                    <p className="py-4 my-2 max-w-xl">{ language === "es" ? ABOUT_ME_PART2: ABOUT_ME_PART2_ES}</p>
             </motion.div>
         </div>
     </div>
