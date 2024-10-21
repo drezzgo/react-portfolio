@@ -1,5 +1,5 @@
 import project1 from "../assets/projects/simplexUD.png";
-import project2 from "../assets/projects/sogamosoAqua.png";
+import project2 from "../assets/projects/SogamosoAqua.png";
 import project3 from "../assets/projects/Portfolio.png";
 
 export const HERO_CONTENT = `I am a passionate student of Data Systematization at the Francisco José de Caldas University. My focus is on web development and database management, with experience in agile methodologies and projects that seek to optimize processes through efficient solutions. With knowledge in HTML, CSS, JavaScript, and frameworks like Tailwind, my goal is to continue growing in the full stack field while applying my skills to solve real problems. Currently, I am finishing my studies and open to new job opportunities where I can contribute and continue learning.`;
