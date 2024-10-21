@@ -1,6 +1,6 @@
 # Andrés Gongora's Portfolio
 
-![Portfolio Screenshot](https://link-to-your-screenshot.png)
+![Portfolio Screenshot](./src/assets/PortfolioScreenshot.png)
 
 Welcome to my personal portfolio repository! This project showcases my journey and skills as a frontend developer with a focus on building dynamic and responsive web applications using modern technologies like **React**, **Tailwind CSS**, and **Vite**. You can explore my work, learn more about me, and contact me through this website.
 
